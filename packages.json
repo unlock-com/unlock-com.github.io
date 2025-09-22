@@ -1,0 +1,12 @@
+{
+    "packages": [],
+    "includes": {
+        "include/all$f3d807f58b50ccfd7c39968e2b293f29fa316534.json": {
+            "sha1": "f3d807f58b50ccfd7c39968e2b293f29fa316534"
+        }
+    },
+    "metadata-url": "/p2/%package%.json",
+    "available-packages": [
+        "unlk/megamenu-pro"
+    ]
+}
