@@ -1,12 +1,13 @@
 {
     "packages": [],
     "includes": {
-        "include/all$f3d807f58b50ccfd7c39968e2b293f29fa316534.json": {
-            "sha1": "f3d807f58b50ccfd7c39968e2b293f29fa316534"
+        "include/all$3cb53cde83dc3732ee460853258e04227281ccb5.json": {
+            "sha1": "3cb53cde83dc3732ee460853258e04227281ccb5"
         }
     },
     "metadata-url": "/p2/%package%.json",
     "available-packages": [
+        "unlk/cdp-analytics",
         "unlk/megamenu-pro"
     ]
 }
