@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/cdp-analytics.git",
-                    "reference": "495a33d79bd32991e2ffa5573c51ab3bd9c06a93"
+                    "reference": "37d0cf9e626d19fad8b189e9ec239959f4fde715"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/495a33d79bd32991e2ffa5573c51ab3bd9c06a93",
-                    "reference": "495a33d79bd32991e2ffa5573c51ab3bd9c06a93",
+                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/37d0cf9e626d19fad8b189e9ec239959f4fde715",
+                    "reference": "37d0cf9e626d19fad8b189e9ec239959f4fde715",
                     "shasum": ""
                 },
-                "time": "2025-10-13T12:45:34+00:00",
+                "time": "2025-10-13T16:55:51+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -27,11 +27,7 @@
                         "name": "Nikun Patel"
                     }
                 ],
-                "description": "CDP Analytics",
-                "support": {
-                    "source": "https://github.com/unlock-com/cdp-analytics/tree/1.0.1",
-                    "issues": "https://github.com/unlock-com/cdp-analytics/issues"
-                }
+                "description": "CDP Analytics"
             }
         ]
     }
