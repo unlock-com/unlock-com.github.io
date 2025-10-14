@@ -135,6 +135,33 @@
                     }
                 ],
                 "description": "CDP Analytics"
+            },
+            {
+                "name": "unlk/cdp-analytics",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/cdp-analytics.git",
+                    "reference": "879a566d6824909d0a2b877672a49e0ccc01b7fa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/879a566d6824909d0a2b877672a49e0ccc01b7fa",
+                    "reference": "879a566d6824909d0a2b877672a49e0ccc01b7fa",
+                    "shasum": ""
+                },
+                "time": "2025-10-14T18:10:51+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv2 or later"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel"
+                    }
+                ],
+                "description": "CDP Analytics"
             }
         ]
     }
