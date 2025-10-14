@@ -111,8 +111,8 @@
             },
             {
                 "name": "unlk/cdp-analytics",
-                "version": "1.0.5",
-                "version_normalized": "1.0.5.0",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/cdp-analytics.git",
