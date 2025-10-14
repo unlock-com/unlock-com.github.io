@@ -109,6 +109,33 @@
                 ],
                 "description": "CDP Analytics"
             },
+            "1.0.5": {
+                "name": "unlk/cdp-analytics",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/cdp-analytics.git",
+                    "reference": "ab135e8607ca8ba9a674251b92a3b7b1c551551f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/ab135e8607ca8ba9a674251b92a3b7b1c551551f",
+                    "reference": "ab135e8607ca8ba9a674251b92a3b7b1c551551f",
+                    "shasum": ""
+                },
+                "time": "2025-10-14T17:12:40+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv2 or later"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel"
+                    }
+                ],
+                "description": "CDP Analytics"
+            },
             "dev-main": {
                 "name": "unlk/cdp-analytics",
                 "version": "dev-main",
@@ -116,15 +143,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/cdp-analytics.git",
-                    "reference": "91a9267bd9d896601c671b5622d275a93717f8a9"
+                    "reference": "ab135e8607ca8ba9a674251b92a3b7b1c551551f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/91a9267bd9d896601c671b5622d275a93717f8a9",
-                    "reference": "91a9267bd9d896601c671b5622d275a93717f8a9",
+                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/ab135e8607ca8ba9a674251b92a3b7b1c551551f",
+                    "reference": "ab135e8607ca8ba9a674251b92a3b7b1c551551f",
                     "shasum": ""
                 },
-                "time": "2025-10-14T16:52:36+00:00",
+                "time": "2025-10-14T17:12:40+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
