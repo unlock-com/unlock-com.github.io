@@ -27,6 +27,33 @@
                     }
                 ],
                 "description": "Max Mega Menu - Pro"
+            },
+            {
+                "name": "unlk/megamenu-pro",
+                "version": "2.4.4",
+                "version_normalized": "2.4.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/megamenu-pro.git",
+                    "reference": "747eee224d25211602ec8db9e5bb409d3dedff27"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/megamenu-pro/zipball/747eee224d25211602ec8db9e5bb409d3dedff27",
+                    "reference": "747eee224d25211602ec8db9e5bb409d3dedff27",
+                    "shasum": ""
+                },
+                "time": "2025-12-15T17:21:30+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv2 or later"
+                ],
+                "authors": [
+                    {
+                        "name": "megamenu.com"
+                    }
+                ],
+                "description": "Max Mega Menu - Pro"
             }
         ]
     }
