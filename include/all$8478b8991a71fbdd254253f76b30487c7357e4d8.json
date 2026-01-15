@@ -403,19 +403,19 @@
                 ],
                 "description": "CDP Analytics"
             },
-            "dev-main": {
+            "1.1.2": {
                 "name": "unlk/cdp-analytics",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/cdp-analytics.git",
-                    "reference": "8d6aaf3038285a5d0bd41dcc61c22b3f9bc7052e"
+                    "reference": "095ba88363f2a4d21935e28df8d4e77f418b8b7f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/8d6aaf3038285a5d0bd41dcc61c22b3f9bc7052e",
-                    "reference": "8d6aaf3038285a5d0bd41dcc61c22b3f9bc7052e",
+                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/095ba88363f2a4d21935e28df8d4e77f418b8b7f",
+                    "reference": "095ba88363f2a4d21935e28df8d4e77f418b8b7f",
                     "shasum": ""
                 },
                 "require": {
@@ -425,7 +425,50 @@
                 "require-dev": {
                     "segmentio/analytics-php": "^3.8"
                 },
-                "time": "2026-01-15T20:22:21+00:00",
+                "time": "2026-01-15T21:37:41+00:00",
+                "type": "wordpress-plugin",
+                "autoload": {
+                    "exclude-from-classmap": [
+                        "/tests/"
+                    ]
+                },
+                "license": [
+                    "GPLv2 or later"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel"
+                    },
+                    {
+                        "name": "Chris Carrel",
+                        "homepage": "https://www.linkedin.com/in/chriscarrel"
+                    }
+                ],
+                "description": "CDP Analytics"
+            },
+            "dev-main": {
+                "name": "unlk/cdp-analytics",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/cdp-analytics.git",
+                    "reference": "095ba88363f2a4d21935e28df8d4e77f418b8b7f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/095ba88363f2a4d21935e28df8d4e77f418b8b7f",
+                    "reference": "095ba88363f2a4d21935e28df8d4e77f418b8b7f",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "^2.0",
+                    "php": "^7.4|^8"
+                },
+                "require-dev": {
+                    "segmentio/analytics-php": "^3.8"
+                },
+                "time": "2026-01-15T21:37:41+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "autoload": {
