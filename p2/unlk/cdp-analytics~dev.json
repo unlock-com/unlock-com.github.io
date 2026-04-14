@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/cdp-analytics.git",
-                    "reference": "095ba88363f2a4d21935e28df8d4e77f418b8b7f"
+                    "reference": "c0391261ccd98b92d8f256b7959bab2e5bd6b351"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/095ba88363f2a4d21935e28df8d4e77f418b8b7f",
-                    "reference": "095ba88363f2a4d21935e28df8d4e77f418b8b7f",
+                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/c0391261ccd98b92d8f256b7959bab2e5bd6b351",
+                    "reference": "c0391261ccd98b92d8f256b7959bab2e5bd6b351",
                     "shasum": ""
                 },
                 "require": {
@@ -23,7 +23,7 @@
                 "require-dev": {
                     "segmentio/analytics-php": "^3.8"
                 },
-                "time": "2026-01-15T21:37:41+00:00",
+                "time": "2026-04-14T18:46:13+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "autoload": {
@@ -36,7 +36,8 @@
                 ],
                 "authors": [
                     {
-                        "name": "Nikun Patel"
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
                     },
                     {
                         "name": "Chris Carrel",
