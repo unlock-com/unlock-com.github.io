@@ -811,6 +811,33 @@
                 ],
                 "description": "Max Mega Menu - Pro"
             },
+            "2.4.6": {
+                "name": "unlk/megamenu-pro",
+                "version": "2.4.6",
+                "version_normalized": "2.4.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/megamenu-pro.git",
+                    "reference": "c9ba1c68634b2fe4ee3f0fe2405b925c1736e944"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/megamenu-pro/zipball/c9ba1c68634b2fe4ee3f0fe2405b925c1736e944",
+                    "reference": "c9ba1c68634b2fe4ee3f0fe2405b925c1736e944",
+                    "shasum": ""
+                },
+                "time": "2026-05-01T14:24:17+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv2 or later"
+                ],
+                "authors": [
+                    {
+                        "name": "megamenu.com"
+                    }
+                ],
+                "description": "Max Mega Menu - Pro"
+            },
             "dev-main": {
                 "name": "unlk/megamenu-pro",
                 "version": "dev-main",
@@ -818,15 +845,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/megamenu-pro.git",
-                    "reference": "747eee224d25211602ec8db9e5bb409d3dedff27"
+                    "reference": "c9ba1c68634b2fe4ee3f0fe2405b925c1736e944"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/megamenu-pro/zipball/747eee224d25211602ec8db9e5bb409d3dedff27",
-                    "reference": "747eee224d25211602ec8db9e5bb409d3dedff27",
+                    "url": "https://api.github.com/repos/unlock-com/megamenu-pro/zipball/c9ba1c68634b2fe4ee3f0fe2405b925c1736e944",
+                    "reference": "c9ba1c68634b2fe4ee3f0fe2405b925c1736e944",
                     "shasum": ""
                 },
-                "time": "2025-12-15T17:21:30+00:00",
+                "time": "2026-05-01T14:24:17+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
