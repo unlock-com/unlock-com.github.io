@@ -1,0 +1,38 @@
+{
+    "packages": {
+        "unlk/gf-bootstrap5-floating-labels": [
+            {
+                "name": "unlk/gf-bootstrap5-floating-labels",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-bootstrap5-floating-labels.git",
+                    "reference": "43fdc768eeedadf709d01eeae4eca00aad064bbf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-bootstrap5-floating-labels/zipball/43fdc768eeedadf709d01eeae4eca00aad064bbf",
+                    "reference": "43fdc768eeedadf709d01eeae4eca00aad064bbf",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6"
+                },
+                "time": "2026-05-06T12:55:07+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Bootstrap5 Floating Labels"
+            }
+        ]
+    }
+}

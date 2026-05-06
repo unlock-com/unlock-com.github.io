@@ -1,13 +1,14 @@
 {
     "packages": [],
     "includes": {
-        "include/all$454c8fe618c32f18563d3bb21d39f56ab64149f1.json": {
-            "sha1": "454c8fe618c32f18563d3bb21d39f56ab64149f1"
+        "include/all$aa010897411458f746d74c0ecc6768ad16bbba2f.json": {
+            "sha1": "aa010897411458f746d74c0ecc6768ad16bbba2f"
         }
     },
     "metadata-url": "/p2/%package%.json",
     "available-packages": [
         "unlk/cdp-analytics",
+        "unlk/gf-bootstrap5-floating-labels",
         "unlk/gf-smarty-autocomplete",
         "unlk/megamenu-pro"
     ]
