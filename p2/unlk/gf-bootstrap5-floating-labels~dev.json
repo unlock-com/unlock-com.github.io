@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-bootstrap5-floating-labels.git",
-                    "reference": "43fdc768eeedadf709d01eeae4eca00aad064bbf"
+                    "reference": "e5883d1a660921cad254d83243fdbfd10cd06d64"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-bootstrap5-floating-labels/zipball/43fdc768eeedadf709d01eeae4eca00aad064bbf",
-                    "reference": "43fdc768eeedadf709d01eeae4eca00aad064bbf",
+                    "url": "https://api.github.com/repos/unlock-com/gf-bootstrap5-floating-labels/zipball/e5883d1a660921cad254d83243fdbfd10cd06d64",
+                    "reference": "e5883d1a660921cad254d83243fdbfd10cd06d64",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=5.6"
                 },
-                "time": "2026-05-06T12:55:07+00:00",
+                "time": "2026-05-20T15:51:40+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
