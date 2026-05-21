@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/cdp-analytics.git",
-                    "reference": "92e1ad9a6e54e64513b67fd84502f18d7631d8f0"
+                    "reference": "7354546d8fc0f4c82270bb885c965244578d94d4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/92e1ad9a6e54e64513b67fd84502f18d7631d8f0",
-                    "reference": "92e1ad9a6e54e64513b67fd84502f18d7631d8f0",
+                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/7354546d8fc0f4c82270bb885c965244578d94d4",
+                    "reference": "7354546d8fc0f4c82270bb885c965244578d94d4",
                     "shasum": ""
                 },
                 "require": {
@@ -23,7 +23,7 @@
                 "require-dev": {
                     "segmentio/analytics-php": "^3.8"
                 },
-                "time": "2026-05-01T18:23:32+00:00",
+                "time": "2026-05-21T20:00:33+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "autoload": {
