@@ -959,6 +959,37 @@
                 ],
                 "description": "Gravity Forms - Smarty Autocomplete"
             },
+            "1.0.2": {
+                "name": "unlk/gf-smarty-autocomplete",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-smarty-autocomplete.git",
+                    "reference": "94dad63b47a22f6a3bb5029504862e83d69351d0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-smarty-autocomplete/zipball/94dad63b47a22f6a3bb5029504862e83d69351d0",
+                    "reference": "94dad63b47a22f6a3bb5029504862e83d69351d0",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=5.6"
+                },
+                "time": "2026-05-21T16:37:05+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Smarty Autocomplete"
+            },
             "dev-main": {
                 "name": "unlk/gf-smarty-autocomplete",
                 "version": "dev-main",
@@ -966,18 +997,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-smarty-autocomplete.git",
-                    "reference": "bf59b6ede09452d563fd36825be0fffa5a3f3076"
+                    "reference": "94dad63b47a22f6a3bb5029504862e83d69351d0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-smarty-autocomplete/zipball/bf59b6ede09452d563fd36825be0fffa5a3f3076",
-                    "reference": "bf59b6ede09452d563fd36825be0fffa5a3f3076",
+                    "url": "https://api.github.com/repos/unlock-com/gf-smarty-autocomplete/zipball/94dad63b47a22f6a3bb5029504862e83d69351d0",
+                    "reference": "94dad63b47a22f6a3bb5029504862e83d69351d0",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=5.6"
                 },
-                "time": "2026-05-20T15:52:37+00:00",
+                "time": "2026-05-21T16:37:05+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
