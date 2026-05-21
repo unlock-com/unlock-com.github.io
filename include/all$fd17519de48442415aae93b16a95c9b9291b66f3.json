@@ -1243,9 +1243,9 @@
                 "description": "Gravity Forms - Smarty Autocomplete"
             }
         },
-        "unlk/gf-turstedform": {
+        "unlk/gf-trustedform": {
             "1.0.0": {
-                "name": "unlk/gf-turstedform",
+                "name": "unlk/gf-trustedform",
                 "version": "1.0.0",
                 "version_normalized": "1.0.0.0",
                 "source": {
@@ -1276,7 +1276,7 @@
                 "description": "Gravity Forms - Trusted Form"
             },
             "1.0.1": {
-                "name": "unlk/gf-turstedform",
+                "name": "unlk/gf-trustedform",
                 "version": "1.0.1",
                 "version_normalized": "1.0.1.0",
                 "source": {
@@ -1306,25 +1306,56 @@
                 ],
                 "description": "Gravity Forms - Trusted Form"
             },
-            "dev-main": {
-                "name": "unlk/gf-turstedform",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
+            "1.0.2": {
+                "name": "unlk/gf-trustedform",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-trustedform.git",
-                    "reference": "117c46c1159d0078e1456dba301c9a041e275f91"
+                    "reference": "ea706ce38b6849d0ed6035783c0e7fa0a9c31b4c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-trustedform/zipball/117c46c1159d0078e1456dba301c9a041e275f91",
-                    "reference": "117c46c1159d0078e1456dba301c9a041e275f91",
+                    "url": "https://api.github.com/repos/unlock-com/gf-trustedform/zipball/ea706ce38b6849d0ed6035783c0e7fa0a9c31b4c",
+                    "reference": "ea706ce38b6849d0ed6035783c0e7fa0a9c31b4c",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-05-21T19:05:20+00:00",
+                "time": "2026-05-21T19:10:05+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Trusted Form"
+            },
+            "dev-main": {
+                "name": "unlk/gf-trustedform",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-trustedform.git",
+                    "reference": "ea706ce38b6849d0ed6035783c0e7fa0a9c31b4c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-trustedform/zipball/ea706ce38b6849d0ed6035783c0e7fa0a9c31b4c",
+                    "reference": "ea706ce38b6849d0ed6035783c0e7fa0a9c31b4c",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-05-21T19:10:05+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
