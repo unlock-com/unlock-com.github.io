@@ -1,15 +1,17 @@
 {
     "packages": [],
     "includes": {
-        "include/all$05b235de31b86ae7bf5442c6ad2ca5f49543ba7e.json": {
-            "sha1": "05b235de31b86ae7bf5442c6ad2ca5f49543ba7e"
+        "include/all$13c03c2a380ee7e0e97289f86d3c3570c308ce8d.json": {
+            "sha1": "13c03c2a380ee7e0e97289f86d3c3570c308ce8d"
         }
     },
     "metadata-url": "/p2/%package%.json",
     "available-packages": [
         "unlk/cdp-analytics",
         "unlk/gf-bootstrap5-floating-labels",
+        "unlk/gf-segment-identify",
         "unlk/gf-smarty-autocomplete",
+        "unlk/gf-turstedform",
         "unlk/megamenu-pro"
     ]
 }
