@@ -31,6 +31,37 @@
                     }
                 ],
                 "description": "Gravity Forms - Segment Identify"
+            },
+            {
+                "name": "unlk/gf-segment-identify",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-segment-identify.git",
+                    "reference": "b677ea41c2c46de871943236050a616bf99b0a19"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-segment-identify/zipball/b677ea41c2c46de871943236050a616bf99b0a19",
+                    "reference": "b677ea41c2c46de871943236050a616bf99b0a19",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-05-21T19:01:14+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Segment Identify"
             }
         ]
     }

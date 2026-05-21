@@ -894,6 +894,37 @@
                 ],
                 "description": "Gravity Forms - Bootstrap5 Floating Labels"
             },
+            "1.0.3": {
+                "name": "unlk/gf-bootstrap5-floating-labels",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-bootstrap5-floating-labels.git",
+                    "reference": "f9f9ac05081b74fdeff2c89cdfbc664844b1b9fd"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-bootstrap5-floating-labels/zipball/f9f9ac05081b74fdeff2c89cdfbc664844b1b9fd",
+                    "reference": "f9f9ac05081b74fdeff2c89cdfbc664844b1b9fd",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-05-21T19:01:45+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Bootstrap5 Floating Labels"
+            },
             "dev-main": {
                 "name": "unlk/gf-bootstrap5-floating-labels",
                 "version": "dev-main",
@@ -901,18 +932,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-bootstrap5-floating-labels.git",
-                    "reference": "3e33f1403c3c2850668a882f894d98b7ad52fc25"
+                    "reference": "f9f9ac05081b74fdeff2c89cdfbc664844b1b9fd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-bootstrap5-floating-labels/zipball/3e33f1403c3c2850668a882f894d98b7ad52fc25",
-                    "reference": "3e33f1403c3c2850668a882f894d98b7ad52fc25",
+                    "url": "https://api.github.com/repos/unlock-com/gf-bootstrap5-floating-labels/zipball/f9f9ac05081b74fdeff2c89cdfbc664844b1b9fd",
+                    "reference": "f9f9ac05081b74fdeff2c89cdfbc664844b1b9fd",
                     "shasum": ""
                 },
                 "require": {
-                    "php": ">=5.6"
+                    "php": ">=8.3"
                 },
-                "time": "2026-05-21T18:36:51+00:00",
+                "time": "2026-05-21T19:01:45+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -959,6 +990,37 @@
                 ],
                 "description": "Gravity Forms - Segment Identify"
             },
+            "1.0.1": {
+                "name": "unlk/gf-segment-identify",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-segment-identify.git",
+                    "reference": "b677ea41c2c46de871943236050a616bf99b0a19"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-segment-identify/zipball/b677ea41c2c46de871943236050a616bf99b0a19",
+                    "reference": "b677ea41c2c46de871943236050a616bf99b0a19",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-05-21T19:01:14+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Segment Identify"
+            },
             "dev-main": {
                 "name": "unlk/gf-segment-identify",
                 "version": "dev-main",
@@ -966,18 +1028,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-segment-identify.git",
-                    "reference": "b432cf17e276b7031122a273fa82cfa0ebce870f"
+                    "reference": "b677ea41c2c46de871943236050a616bf99b0a19"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-segment-identify/zipball/b432cf17e276b7031122a273fa82cfa0ebce870f",
-                    "reference": "b432cf17e276b7031122a273fa82cfa0ebce870f",
+                    "url": "https://api.github.com/repos/unlock-com/gf-segment-identify/zipball/b677ea41c2c46de871943236050a616bf99b0a19",
+                    "reference": "b677ea41c2c46de871943236050a616bf99b0a19",
                     "shasum": ""
                 },
                 "require": {
-                    "php": ">=5.6"
+                    "php": ">=8.3"
                 },
-                "time": "2026-05-21T18:33:11+00:00",
+                "time": "2026-05-21T19:01:14+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -1117,6 +1179,37 @@
                 ],
                 "description": "Gravity Forms - Smarty Autocomplete"
             },
+            "1.0.4": {
+                "name": "unlk/gf-smarty-autocomplete",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-smarty-autocomplete.git",
+                    "reference": "4702e92adb2de183fcdd070dee873cc3d5a65b02"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-smarty-autocomplete/zipball/4702e92adb2de183fcdd070dee873cc3d5a65b02",
+                    "reference": "4702e92adb2de183fcdd070dee873cc3d5a65b02",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-05-21T19:02:18+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Smarty Autocomplete"
+            },
             "dev-main": {
                 "name": "unlk/gf-smarty-autocomplete",
                 "version": "dev-main",
@@ -1124,18 +1217,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-smarty-autocomplete.git",
-                    "reference": "20def35fc68f7af6ab465d7f6af2e478f657498f"
+                    "reference": "4702e92adb2de183fcdd070dee873cc3d5a65b02"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-smarty-autocomplete/zipball/20def35fc68f7af6ab465d7f6af2e478f657498f",
-                    "reference": "20def35fc68f7af6ab465d7f6af2e478f657498f",
+                    "url": "https://api.github.com/repos/unlock-com/gf-smarty-autocomplete/zipball/4702e92adb2de183fcdd070dee873cc3d5a65b02",
+                    "reference": "4702e92adb2de183fcdd070dee873cc3d5a65b02",
                     "shasum": ""
                 },
                 "require": {
-                    "php": ">=5.6"
+                    "php": ">=8.3"
                 },
-                "time": "2026-05-21T18:36:30+00:00",
+                "time": "2026-05-21T19:02:18+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
