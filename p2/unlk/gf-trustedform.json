@@ -124,6 +124,37 @@
                     }
                 ],
                 "description": "Gravity Forms - Trusted Form"
+            },
+            {
+                "name": "unlk/gf-trustedform",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-trustedform.git",
+                    "reference": "0c9d5691f42b2a3dce83d3f86ae0c4605d54b5b1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-trustedform/zipball/0c9d5691f42b2a3dce83d3f86ae0c4605d54b5b1",
+                    "reference": "0c9d5691f42b2a3dce83d3f86ae0c4605d54b5b1",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-05-27T16:56:09+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Trusted Form"
             }
         ]
     }
