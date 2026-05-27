@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-trustedform.git",
-                    "reference": "ea706ce38b6849d0ed6035783c0e7fa0a9c31b4c"
+                    "reference": "5e6276b3d3ae03201831437e373f24020c0fcea0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-trustedform/zipball/ea706ce38b6849d0ed6035783c0e7fa0a9c31b4c",
-                    "reference": "ea706ce38b6849d0ed6035783c0e7fa0a9c31b4c",
+                    "url": "https://api.github.com/repos/unlock-com/gf-trustedform/zipball/5e6276b3d3ae03201831437e373f24020c0fcea0",
+                    "reference": "5e6276b3d3ae03201831437e373f24020c0fcea0",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-05-21T19:10:05+00:00",
+                "time": "2026-05-27T16:32:49+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [

@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-segment-identify.git",
-                    "reference": "b677ea41c2c46de871943236050a616bf99b0a19"
+                    "reference": "45fb31aa1a533898150bed00cda1c4a0069c2b28"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-segment-identify/zipball/b677ea41c2c46de871943236050a616bf99b0a19",
-                    "reference": "b677ea41c2c46de871943236050a616bf99b0a19",
+                    "url": "https://api.github.com/repos/unlock-com/gf-segment-identify/zipball/45fb31aa1a533898150bed00cda1c4a0069c2b28",
+                    "reference": "45fb31aa1a533898150bed00cda1c4a0069c2b28",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-05-21T19:01:14+00:00",
+                "time": "2026-05-27T16:32:22+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
