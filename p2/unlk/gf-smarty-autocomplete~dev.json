@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-smarty-autocomplete.git",
-                    "reference": "4702e92adb2de183fcdd070dee873cc3d5a65b02"
+                    "reference": "ab059df49bb8b732e4edcc7f272f28cb7a6dc693"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-smarty-autocomplete/zipball/4702e92adb2de183fcdd070dee873cc3d5a65b02",
-                    "reference": "4702e92adb2de183fcdd070dee873cc3d5a65b02",
+                    "url": "https://api.github.com/repos/unlock-com/gf-smarty-autocomplete/zipball/ab059df49bb8b732e4edcc7f272f28cb7a6dc693",
+                    "reference": "ab059df49bb8b732e4edcc7f272f28cb7a6dc693",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-05-21T19:02:18+00:00",
+                "time": "2026-05-27T15:58:04+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
