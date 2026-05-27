@@ -969,6 +969,37 @@
                 ],
                 "description": "Gravity Forms - Bootstrap5 Floating Labels"
             },
+            "1.0.4": {
+                "name": "unlk/gf-bootstrap5-floating-labels",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-bootstrap5-floating-labels.git",
+                    "reference": "4d334f7301b3f6ab2ef7a2bcd44550440f157d2f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-bootstrap5-floating-labels/zipball/4d334f7301b3f6ab2ef7a2bcd44550440f157d2f",
+                    "reference": "4d334f7301b3f6ab2ef7a2bcd44550440f157d2f",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-05-27T16:33:26+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Bootstrap5 Floating Labels"
+            },
             "dev-main": {
                 "name": "unlk/gf-bootstrap5-floating-labels",
                 "version": "dev-main",
@@ -976,18 +1007,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-bootstrap5-floating-labels.git",
-                    "reference": "f9f9ac05081b74fdeff2c89cdfbc664844b1b9fd"
+                    "reference": "4d334f7301b3f6ab2ef7a2bcd44550440f157d2f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-bootstrap5-floating-labels/zipball/f9f9ac05081b74fdeff2c89cdfbc664844b1b9fd",
-                    "reference": "f9f9ac05081b74fdeff2c89cdfbc664844b1b9fd",
+                    "url": "https://api.github.com/repos/unlock-com/gf-bootstrap5-floating-labels/zipball/4d334f7301b3f6ab2ef7a2bcd44550440f157d2f",
+                    "reference": "4d334f7301b3f6ab2ef7a2bcd44550440f157d2f",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-05-21T19:01:45+00:00",
+                "time": "2026-05-27T16:33:26+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
