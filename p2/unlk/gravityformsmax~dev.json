@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gravityformsmax.git",
-                    "reference": "a4ad2b73a74182724980790361ddb55e03c719f7"
+                    "reference": "d3b524df58b131b1f79622d73a814ecef1b633e8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gravityformsmax/zipball/a4ad2b73a74182724980790361ddb55e03c719f7",
-                    "reference": "a4ad2b73a74182724980790361ddb55e03c719f7",
+                    "url": "https://api.github.com/repos/unlock-com/gravityformsmax/zipball/d3b524df58b131b1f79622d73a814ecef1b633e8",
+                    "reference": "d3b524df58b131b1f79622d73a814ecef1b633e8",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-05-27T16:33:55+00:00",
+                "time": "2026-05-27T16:57:59+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [

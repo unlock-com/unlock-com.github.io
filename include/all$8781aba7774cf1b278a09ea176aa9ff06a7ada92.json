@@ -842,19 +842,19 @@
                 ],
                 "description": "CDP Analytics"
             },
-            "dev-main": {
+            "1.2.2": {
                 "name": "unlk/cdp-analytics",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/cdp-analytics.git",
-                    "reference": "13db874a084d11634a799ff42af4c7126a55dba5"
+                    "reference": "bf5fa0140b6b9cfc78b1a1a8cef928f8096ca36f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/13db874a084d11634a799ff42af4c7126a55dba5",
-                    "reference": "13db874a084d11634a799ff42af4c7126a55dba5",
+                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/bf5fa0140b6b9cfc78b1a1a8cef928f8096ca36f",
+                    "reference": "bf5fa0140b6b9cfc78b1a1a8cef928f8096ca36f",
                     "shasum": ""
                 },
                 "require": {
@@ -864,7 +864,51 @@
                 "require-dev": {
                     "segmentio/analytics-php": "^3.8"
                 },
-                "time": "2026-05-27T16:34:23+00:00",
+                "time": "2026-05-27T16:57:36+00:00",
+                "type": "wordpress-plugin",
+                "autoload": {
+                    "exclude-from-classmap": [
+                        "/tests/"
+                    ]
+                },
+                "license": [
+                    "GPLv2 or later"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    },
+                    {
+                        "name": "Chris Carrel",
+                        "homepage": "https://www.linkedin.com/in/chriscarrel"
+                    }
+                ],
+                "description": "CDP Analytics"
+            },
+            "dev-main": {
+                "name": "unlk/cdp-analytics",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/cdp-analytics.git",
+                    "reference": "bf5fa0140b6b9cfc78b1a1a8cef928f8096ca36f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/bf5fa0140b6b9cfc78b1a1a8cef928f8096ca36f",
+                    "reference": "bf5fa0140b6b9cfc78b1a1a8cef928f8096ca36f",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "^2.0",
+                    "php": "^7.4|^8"
+                },
+                "require-dev": {
+                    "segmentio/analytics-php": "^3.8"
+                },
+                "time": "2026-05-27T16:57:36+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "autoload": {
@@ -1738,6 +1782,37 @@
                 ],
                 "description": "Connector to transmit Gravity Form submissions to MAX"
             },
+            "1.0.3": {
+                "name": "unlk/gravityformsmax",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gravityformsmax.git",
+                    "reference": "d3b524df58b131b1f79622d73a814ecef1b633e8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gravityformsmax/zipball/d3b524df58b131b1f79622d73a814ecef1b633e8",
+                    "reference": "d3b524df58b131b1f79622d73a814ecef1b633e8",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-05-27T16:57:59+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Connector to transmit Gravity Form submissions to MAX"
+            },
             "dev-main": {
                 "name": "unlk/gravityformsmax",
                 "version": "dev-main",
@@ -1745,18 +1820,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gravityformsmax.git",
-                    "reference": "a4ad2b73a74182724980790361ddb55e03c719f7"
+                    "reference": "d3b524df58b131b1f79622d73a814ecef1b633e8"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gravityformsmax/zipball/a4ad2b73a74182724980790361ddb55e03c719f7",
-                    "reference": "a4ad2b73a74182724980790361ddb55e03c719f7",
+                    "url": "https://api.github.com/repos/unlock-com/gravityformsmax/zipball/d3b524df58b131b1f79622d73a814ecef1b633e8",
+                    "reference": "d3b524df58b131b1f79622d73a814ecef1b633e8",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-05-27T16:33:55+00:00",
+                "time": "2026-05-27T16:57:59+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
