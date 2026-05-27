@@ -1088,6 +1088,37 @@
                 ],
                 "description": "Gravity Forms - Bootstrap5 Floating Labels"
             },
+            "1.0.5": {
+                "name": "unlk/gf-bootstrap5-floating-labels",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-bootstrap5-floating-labels.git",
+                    "reference": "5db69cbf932188f814596a0fb053adbfe838827b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-bootstrap5-floating-labels/zipball/5db69cbf932188f814596a0fb053adbfe838827b",
+                    "reference": "5db69cbf932188f814596a0fb053adbfe838827b",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-05-27T16:59:21+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Bootstrap5 Floating Labels"
+            },
             "dev-main": {
                 "name": "unlk/gf-bootstrap5-floating-labels",
                 "version": "dev-main",
@@ -1095,18 +1126,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-bootstrap5-floating-labels.git",
-                    "reference": "4d334f7301b3f6ab2ef7a2bcd44550440f157d2f"
+                    "reference": "5db69cbf932188f814596a0fb053adbfe838827b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-bootstrap5-floating-labels/zipball/4d334f7301b3f6ab2ef7a2bcd44550440f157d2f",
-                    "reference": "4d334f7301b3f6ab2ef7a2bcd44550440f157d2f",
+                    "url": "https://api.github.com/repos/unlock-com/gf-bootstrap5-floating-labels/zipball/5db69cbf932188f814596a0fb053adbfe838827b",
+                    "reference": "5db69cbf932188f814596a0fb053adbfe838827b",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-05-27T16:33:26+00:00",
+                "time": "2026-05-27T16:59:21+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -1466,6 +1497,37 @@
                 ],
                 "description": "Gravity Forms - Smarty Autocomplete"
             },
+            "1.0.6": {
+                "name": "unlk/gf-smarty-autocomplete",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-smarty-autocomplete.git",
+                    "reference": "9f9ed225dce3036b7fac8f97ba4f9b50a188094d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-smarty-autocomplete/zipball/9f9ed225dce3036b7fac8f97ba4f9b50a188094d",
+                    "reference": "9f9ed225dce3036b7fac8f97ba4f9b50a188094d",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-05-27T16:58:54+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Smarty Autocomplete"
+            },
             "dev-main": {
                 "name": "unlk/gf-smarty-autocomplete",
                 "version": "dev-main",
@@ -1473,18 +1535,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-smarty-autocomplete.git",
-                    "reference": "ab059df49bb8b732e4edcc7f272f28cb7a6dc693"
+                    "reference": "9f9ed225dce3036b7fac8f97ba4f9b50a188094d"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-smarty-autocomplete/zipball/ab059df49bb8b732e4edcc7f272f28cb7a6dc693",
-                    "reference": "ab059df49bb8b732e4edcc7f272f28cb7a6dc693",
+                    "url": "https://api.github.com/repos/unlock-com/gf-smarty-autocomplete/zipball/9f9ed225dce3036b7fac8f97ba4f9b50a188094d",
+                    "reference": "9f9ed225dce3036b7fac8f97ba4f9b50a188094d",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-05-27T15:58:04+00:00",
+                "time": "2026-05-27T16:58:54+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
