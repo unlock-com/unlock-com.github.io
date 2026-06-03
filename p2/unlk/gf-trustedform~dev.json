@@ -31,7 +31,11 @@
                         "homepage": "https://www.linkedin.com/in/nikunpatel"
                     }
                 ],
-                "description": "Gravity Forms - Trusted Form"
+                "description": "Gravity Forms - Trusted Form",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-trustedform/tree/1.0.4",
+                    "issues": "https://github.com/unlock-com/gf-trustedform/issues"
+                }
             }
         ]
     }

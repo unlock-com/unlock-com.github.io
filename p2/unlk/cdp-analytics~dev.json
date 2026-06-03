@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/cdp-analytics.git",
-                    "reference": "bf5fa0140b6b9cfc78b1a1a8cef928f8096ca36f"
+                    "reference": "56010b019a468ad6478f0833dbfc3cdb3c7cb499"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/bf5fa0140b6b9cfc78b1a1a8cef928f8096ca36f",
-                    "reference": "bf5fa0140b6b9cfc78b1a1a8cef928f8096ca36f",
+                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/56010b019a468ad6478f0833dbfc3cdb3c7cb499",
+                    "reference": "56010b019a468ad6478f0833dbfc3cdb3c7cb499",
                     "shasum": ""
                 },
                 "require": {
@@ -23,7 +23,7 @@
                 "require-dev": {
                     "segmentio/analytics-php": "^3.8"
                 },
-                "time": "2026-05-27T16:57:36+00:00",
+                "time": "2026-06-03T15:13:26+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "autoload": {
@@ -44,7 +44,11 @@
                         "homepage": "https://www.linkedin.com/in/chriscarrel"
                     }
                 ],
-                "description": "CDP Analytics"
+                "description": "CDP Analytics",
+                "support": {
+                    "source": "https://github.com/unlock-com/cdp-analytics/tree/1.2.3",
+                    "issues": "https://github.com/unlock-com/cdp-analytics/issues"
+                }
             }
         ]
     }

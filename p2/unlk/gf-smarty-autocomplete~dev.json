@@ -31,7 +31,11 @@
                         "homepage": "https://www.linkedin.com/in/nikunpatel"
                     }
                 ],
-                "description": "Gravity Forms - Smarty Autocomplete"
+                "description": "Gravity Forms - Smarty Autocomplete",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-smarty-autocomplete/tree/1.0.6",
+                    "issues": "https://github.com/unlock-com/gf-smarty-autocomplete/issues"
+                }
             }
         ]
     }

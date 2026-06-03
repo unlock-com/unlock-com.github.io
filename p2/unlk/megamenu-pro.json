@@ -26,7 +26,11 @@
                         "name": "megamenu.com"
                     }
                 ],
-                "description": "Max Mega Menu - Pro"
+                "description": "Max Mega Menu - Pro",
+                "support": {
+                    "source": "https://github.com/unlock-com/megamenu-pro/tree/2.4.3",
+                    "issues": "https://github.com/unlock-com/megamenu-pro/issues"
+                }
             },
             {
                 "name": "unlk/megamenu-pro",
@@ -53,7 +57,11 @@
                         "name": "megamenu.com"
                     }
                 ],
-                "description": "Max Mega Menu - Pro"
+                "description": "Max Mega Menu - Pro",
+                "support": {
+                    "source": "https://github.com/unlock-com/megamenu-pro/tree/2.4.4",
+                    "issues": "https://github.com/unlock-com/megamenu-pro/issues"
+                }
             },
             {
                 "name": "unlk/megamenu-pro",
@@ -80,7 +88,11 @@
                         "name": "megamenu.com"
                     }
                 ],
-                "description": "Max Mega Menu - Pro"
+                "description": "Max Mega Menu - Pro",
+                "support": {
+                    "source": "https://github.com/unlock-com/megamenu-pro/tree/2.4.6",
+                    "issues": "https://github.com/unlock-com/megamenu-pro/issues"
+                }
             }
         ]
     }

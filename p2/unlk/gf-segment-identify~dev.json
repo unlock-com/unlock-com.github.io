@@ -31,7 +31,11 @@
                         "homepage": "https://www.linkedin.com/in/nikunpatel"
                     }
                 ],
-                "description": "Gravity Forms - Segment Identify"
+                "description": "Gravity Forms - Segment Identify",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-segment-identify/tree/1.0.3",
+                    "issues": "https://github.com/unlock-com/gf-segment-identify/issues"
+                }
             }
         ]
     }

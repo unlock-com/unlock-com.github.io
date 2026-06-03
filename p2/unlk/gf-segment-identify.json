@@ -30,7 +30,11 @@
                         "homepage": "https://www.linkedin.com/in/nikunpatel"
                     }
                 ],
-                "description": "Gravity Forms - Segment Identify"
+                "description": "Gravity Forms - Segment Identify",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-segment-identify/tree/1.0.0",
+                    "issues": "https://github.com/unlock-com/gf-segment-identify/issues"
+                }
             },
             {
                 "name": "unlk/gf-segment-identify",
@@ -61,7 +65,11 @@
                         "homepage": "https://www.linkedin.com/in/nikunpatel"
                     }
                 ],
-                "description": "Gravity Forms - Segment Identify"
+                "description": "Gravity Forms - Segment Identify",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-segment-identify/tree/1.0.1",
+                    "issues": "https://github.com/unlock-com/gf-segment-identify/issues"
+                }
             },
             {
                 "name": "unlk/gf-segment-identify",
@@ -92,7 +100,11 @@
                         "homepage": "https://www.linkedin.com/in/nikunpatel"
                     }
                 ],
-                "description": "Gravity Forms - Segment Identify"
+                "description": "Gravity Forms - Segment Identify",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-segment-identify/tree/1.0.2",
+                    "issues": "https://github.com/unlock-com/gf-segment-identify/issues"
+                }
             },
             {
                 "name": "unlk/gf-segment-identify",
@@ -123,7 +135,11 @@
                         "homepage": "https://www.linkedin.com/in/nikunpatel"
                     }
                 ],
-                "description": "Gravity Forms - Segment Identify"
+                "description": "Gravity Forms - Segment Identify",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-segment-identify/tree/1.0.3",
+                    "issues": "https://github.com/unlock-com/gf-segment-identify/issues"
+                }
             }
         ]
     }

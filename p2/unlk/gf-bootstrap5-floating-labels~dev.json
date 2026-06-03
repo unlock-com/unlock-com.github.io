@@ -31,7 +31,11 @@
                         "homepage": "https://www.linkedin.com/in/nikunpatel"
                     }
                 ],
-                "description": "Gravity Forms - Bootstrap5 Floating Labels"
+                "description": "Gravity Forms - Bootstrap5 Floating Labels",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-bootstrap5-floating-labels/tree/1.0.5",
+                    "issues": "https://github.com/unlock-com/gf-bootstrap5-floating-labels/issues"
+                }
             }
         ]
     }

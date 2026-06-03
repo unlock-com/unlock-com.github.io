@@ -30,7 +30,11 @@
                         "homepage": "https://www.linkedin.com/in/nikunpatel"
                     }
                 ],
-                "description": "Connector to transmit Gravity Form submissions to MAX"
+                "description": "Connector to transmit Gravity Form submissions to MAX",
+                "support": {
+                    "source": "https://github.com/unlock-com/gravityformsmax/tree/1.0.0",
+                    "issues": "https://github.com/unlock-com/gravityformsmax/issues"
+                }
             },
             {
                 "name": "unlk/gravityformsmax",
@@ -61,7 +65,11 @@
                         "homepage": "https://www.linkedin.com/in/nikunpatel"
                     }
                 ],
-                "description": "Connector to transmit Gravity Form submissions to MAX"
+                "description": "Connector to transmit Gravity Form submissions to MAX",
+                "support": {
+                    "source": "https://github.com/unlock-com/gravityformsmax/tree/1.0.1",
+                    "issues": "https://github.com/unlock-com/gravityformsmax/issues"
+                }
             },
             {
                 "name": "unlk/gravityformsmax",
@@ -92,7 +100,11 @@
                         "homepage": "https://www.linkedin.com/in/nikunpatel"
                     }
                 ],
-                "description": "Connector to transmit Gravity Form submissions to MAX"
+                "description": "Connector to transmit Gravity Form submissions to MAX",
+                "support": {
+                    "source": "https://github.com/unlock-com/gravityformsmax/tree/1.0.2",
+                    "issues": "https://github.com/unlock-com/gravityformsmax/issues"
+                }
             },
             {
                 "name": "unlk/gravityformsmax",
@@ -123,7 +135,11 @@
                         "homepage": "https://www.linkedin.com/in/nikunpatel"
                     }
                 ],
-                "description": "Connector to transmit Gravity Form submissions to MAX"
+                "description": "Connector to transmit Gravity Form submissions to MAX",
+                "support": {
+                    "source": "https://github.com/unlock-com/gravityformsmax/tree/1.0.3",
+                    "issues": "https://github.com/unlock-com/gravityformsmax/issues"
+                }
             }
         ]
     }
