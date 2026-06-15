@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-trustedform.git",
-                    "reference": "0c9d5691f42b2a3dce83d3f86ae0c4605d54b5b1"
+                    "reference": "72797fe47b72d8562dc434b66bd2568692eace69"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-trustedform/zipball/0c9d5691f42b2a3dce83d3f86ae0c4605d54b5b1",
-                    "reference": "0c9d5691f42b2a3dce83d3f86ae0c4605d54b5b1",
+                    "url": "https://api.github.com/repos/unlock-com/gf-trustedform/zipball/72797fe47b72d8562dc434b66bd2568692eace69",
+                    "reference": "72797fe47b72d8562dc434b66bd2568692eace69",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-05-27T16:56:09+00:00",
+                "time": "2026-06-15T14:45:47+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -33,7 +33,7 @@
                 ],
                 "description": "Gravity Forms - Trusted Form",
                 "support": {
-                    "source": "https://github.com/unlock-com/gf-trustedform/tree/1.0.4",
+                    "source": "https://github.com/unlock-com/gf-trustedform/tree/1.0.5",
                     "issues": "https://github.com/unlock-com/gf-trustedform/issues"
                 }
             }

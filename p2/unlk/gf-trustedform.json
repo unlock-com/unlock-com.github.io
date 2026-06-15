@@ -175,6 +175,41 @@
                     "source": "https://github.com/unlock-com/gf-trustedform/tree/1.0.4",
                     "issues": "https://github.com/unlock-com/gf-trustedform/issues"
                 }
+            },
+            {
+                "name": "unlk/gf-trustedform",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-trustedform.git",
+                    "reference": "72797fe47b72d8562dc434b66bd2568692eace69"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-trustedform/zipball/72797fe47b72d8562dc434b66bd2568692eace69",
+                    "reference": "72797fe47b72d8562dc434b66bd2568692eace69",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-06-15T14:45:47+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Trusted Form",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-trustedform/tree/1.0.5",
+                    "issues": "https://github.com/unlock-com/gf-trustedform/issues"
+                }
             }
         ]
     }
