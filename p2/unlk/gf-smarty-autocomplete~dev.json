@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-smarty-autocomplete.git",
-                    "reference": "9f9ed225dce3036b7fac8f97ba4f9b50a188094d"
+                    "reference": "e3f695e9f9ce83bab8af3adf9b67722a7b201d97"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-smarty-autocomplete/zipball/9f9ed225dce3036b7fac8f97ba4f9b50a188094d",
-                    "reference": "9f9ed225dce3036b7fac8f97ba4f9b50a188094d",
+                    "url": "https://api.github.com/repos/unlock-com/gf-smarty-autocomplete/zipball/e3f695e9f9ce83bab8af3adf9b67722a7b201d97",
+                    "reference": "e3f695e9f9ce83bab8af3adf9b67722a7b201d97",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-05-27T16:58:54+00:00",
+                "time": "2026-06-15T14:37:49+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -33,7 +33,7 @@
                 ],
                 "description": "Gravity Forms - Smarty Autocomplete",
                 "support": {
-                    "source": "https://github.com/unlock-com/gf-smarty-autocomplete/tree/1.0.6",
+                    "source": "https://github.com/unlock-com/gf-smarty-autocomplete/tree/1.0.7",
                     "issues": "https://github.com/unlock-com/gf-smarty-autocomplete/issues"
                 }
             }
