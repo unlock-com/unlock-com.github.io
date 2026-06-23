@@ -1073,6 +1073,54 @@
                     "source": "https://github.com/unlock-com/cdp-analytics/tree/1.2.4",
                     "issues": "https://github.com/unlock-com/cdp-analytics/issues"
                 }
+            },
+            {
+                "name": "unlk/cdp-analytics",
+                "version": "1.2.5",
+                "version_normalized": "1.2.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/cdp-analytics.git",
+                    "reference": "567c4ba406367ca4fdccc148dded7bf9acf4622d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/567c4ba406367ca4fdccc148dded7bf9acf4622d",
+                    "reference": "567c4ba406367ca4fdccc148dded7bf9acf4622d",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "^2.0",
+                    "php": "^7.4|^8"
+                },
+                "require-dev": {
+                    "segmentio/analytics-php": "^3.8"
+                },
+                "time": "2026-06-23T15:46:04+00:00",
+                "type": "wordpress-plugin",
+                "autoload": {
+                    "exclude-from-classmap": [
+                        "/tests/"
+                    ]
+                },
+                "license": [
+                    "GPLv2 or later"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    },
+                    {
+                        "name": "Chris Carrel",
+                        "homepage": "https://www.linkedin.com/in/chriscarrel"
+                    }
+                ],
+                "description": "CDP Analytics",
+                "support": {
+                    "source": "https://github.com/unlock-com/cdp-analytics/tree/1.2.5",
+                    "issues": "https://github.com/unlock-com/cdp-analytics/issues"
+                }
             }
         ]
     }
