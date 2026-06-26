@@ -1679,6 +1679,41 @@
                     "issues": "https://github.com/unlock-com/gf-segment-identify/issues"
                 }
             },
+            "1.0.6": {
+                "name": "unlk/gf-segment-identify",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-segment-identify.git",
+                    "reference": "97fb821a91497df0b36180643a073d45510c5691"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-segment-identify/zipball/97fb821a91497df0b36180643a073d45510c5691",
+                    "reference": "97fb821a91497df0b36180643a073d45510c5691",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-06-26T16:56:11+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Segment Identify",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-segment-identify/tree/1.0.6",
+                    "issues": "https://github.com/unlock-com/gf-segment-identify/issues"
+                }
+            },
             "dev-main": {
                 "name": "unlk/gf-segment-identify",
                 "version": "dev-main",
@@ -1686,18 +1721,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-segment-identify.git",
-                    "reference": "76406ccd1a08e48cfe56d7f91f06ef3d3efbde9d"
+                    "reference": "97fb821a91497df0b36180643a073d45510c5691"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-segment-identify/zipball/76406ccd1a08e48cfe56d7f91f06ef3d3efbde9d",
-                    "reference": "76406ccd1a08e48cfe56d7f91f06ef3d3efbde9d",
+                    "url": "https://api.github.com/repos/unlock-com/gf-segment-identify/zipball/97fb821a91497df0b36180643a073d45510c5691",
+                    "reference": "97fb821a91497df0b36180643a073d45510c5691",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-06-26T16:49:33+00:00",
+                "time": "2026-06-26T16:56:11+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -1711,7 +1746,7 @@
                 ],
                 "description": "Gravity Forms - Segment Identify",
                 "support": {
-                    "source": "https://github.com/unlock-com/gf-segment-identify/tree/1.0.5",
+                    "source": "https://github.com/unlock-com/gf-segment-identify/tree/1.0.6",
                     "issues": "https://github.com/unlock-com/gf-segment-identify/issues"
                 }
             }
