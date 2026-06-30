@@ -1,0 +1,42 @@
+{
+    "packages": {
+        "unlk/gf-conditional-submit-text": [
+            {
+                "name": "unlk/gf-conditional-submit-text",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-conditional-submit-text.git",
+                    "reference": "0d3e00ef53ea7c1ed301c3b7f735f1b3e1613f83"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-conditional-submit-text/zipball/0d3e00ef53ea7c1ed301c3b7f735f1b3e1613f83",
+                    "reference": "0d3e00ef53ea7c1ed301c3b7f735f1b3e1613f83",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-06-30T18:55:41+00:00",
+                "default-branch": true,
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Conditional Submit Text",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-conditional-submit-text/tree/1.0.0",
+                    "issues": "https://github.com/unlock-com/gf-conditional-submit-text/issues"
+                }
+            }
+        ]
+    }
+}
