@@ -420,6 +420,41 @@
                     "source": "https://github.com/unlock-com/gf-smarty-autocomplete/tree/1.1.1",
                     "issues": "https://github.com/unlock-com/gf-smarty-autocomplete/issues"
                 }
+            },
+            {
+                "name": "unlk/gf-smarty-autocomplete",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-smarty-autocomplete.git",
+                    "reference": "bb35d08f53b544cfb9dbb104c95cbf138a384e25"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-smarty-autocomplete/zipball/bb35d08f53b544cfb9dbb104c95cbf138a384e25",
+                    "reference": "bb35d08f53b544cfb9dbb104c95cbf138a384e25",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-07-01T19:54:24+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Smarty Autocomplete",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-smarty-autocomplete/tree/1.1.2",
+                    "issues": "https://github.com/unlock-com/gf-smarty-autocomplete/issues"
+                }
             }
         ]
     }
