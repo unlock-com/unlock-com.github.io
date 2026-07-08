@@ -1,0 +1,54 @@
+{
+    "packages": {
+        "unlk/multisite-url-fixer": [
+            {
+                "name": "unlk/multisite-url-fixer",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/multisite-url-fixer.git",
+                    "reference": "41c3a749731933af10211d2318df4fad0b6de094"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/multisite-url-fixer/zipball/41c3a749731933af10211d2318df4fad0b6de094",
+                    "reference": "41c3a749731933af10211d2318df4fad0b6de094",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=7.0.0"
+                },
+                "require-dev": {
+                    "squizlabs/php_codesniffer": "^3.1"
+                },
+                "time": "2026-07-08T14:14:45+00:00",
+                "default-branch": true,
+                "type": "wordpress-muplugin",
+                "autoload": {
+                    "psr-4": {
+                        "Roots\\Bedrock\\": "src/"
+                    }
+                },
+                "scripts": {
+                    "test": [
+                        "phpcs --ignore=vendor --extensions=php --standard=PSR2 ."
+                    ]
+                },
+                "license": [
+                    "MIT"
+                ],
+                "description": "Fixes WordPress issues with home and site URL on multisite when using Bedrock",
+                "homepage": "https://roots.io/bedrock/",
+                "keywords": [
+                    "wordpress"
+                ],
+                "support": {
+                    "issues": "https://github.com/roots/multisite-url-fixer/issues",
+                    "forum": "https://discourse.roots.io/",
+                    "source": "https://github.com/unlock-com/multisite-url-fixer/tree/1.0.0"
+                }
+            }
+        ]
+    }
+}

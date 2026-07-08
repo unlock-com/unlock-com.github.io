@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$e583864a2d03ad6be6f8894ed64f4b6817fe7877.json": {
-            "sha1": "e583864a2d03ad6be6f8894ed64f4b6817fe7877"
+        "include/all$92e3ce3cbd33ef9d356433e3b5a8c52f5e428f18.json": {
+            "sha1": "92e3ce3cbd33ef9d356433e3b5a8c52f5e428f18"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -14,6 +14,7 @@
         "unlk/gf-smarty-autocomplete",
         "unlk/gf-trustedform",
         "unlk/gravityformsmax",
-        "unlk/megamenu-pro"
+        "unlk/megamenu-pro",
+        "unlk/multisite-url-fixer"
     ]
 }
