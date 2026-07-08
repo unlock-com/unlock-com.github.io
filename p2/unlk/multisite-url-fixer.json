@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/multisite-url-fixer.git",
-                    "reference": "41c3a749731933af10211d2318df4fad0b6de094"
+                    "reference": "9e181feeba2e1c3d5bacc1505f9e21b97fa436b0"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/multisite-url-fixer/zipball/41c3a749731933af10211d2318df4fad0b6de094",
-                    "reference": "41c3a749731933af10211d2318df4fad0b6de094",
+                    "url": "https://api.github.com/repos/unlock-com/multisite-url-fixer/zipball/9e181feeba2e1c3d5bacc1505f9e21b97fa436b0",
+                    "reference": "9e181feeba2e1c3d5bacc1505f9e21b97fa436b0",
                     "shasum": ""
                 },
                 "require": {
@@ -22,7 +22,7 @@
                 "require-dev": {
                     "squizlabs/php_codesniffer": "^3.1"
                 },
-                "time": "2026-07-08T14:14:45+00:00",
+                "time": "2026-07-08T14:19:00+00:00",
                 "type": "wordpress-muplugin",
                 "autoload": {
                     "psr-4": {
