@@ -1170,19 +1170,19 @@
                     "issues": "https://github.com/unlock-com/cdp-analytics/issues"
                 }
             },
-            "dev-main": {
+            "1.2.7": {
                 "name": "unlk/cdp-analytics",
-                "version": "dev-main",
-                "version_normalized": "dev-main",
+                "version": "1.2.7",
+                "version_normalized": "1.2.7.0",
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/cdp-analytics.git",
-                    "reference": "e6d6c9a520c03639fe760586095e332743be92c2"
+                    "reference": "6e2f54134e396f755cad578f0dec9c58fde9ca47"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/e6d6c9a520c03639fe760586095e332743be92c2",
-                    "reference": "e6d6c9a520c03639fe760586095e332743be92c2",
+                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/6e2f54134e396f755cad578f0dec9c58fde9ca47",
+                    "reference": "6e2f54134e396f755cad578f0dec9c58fde9ca47",
                     "shasum": ""
                 },
                 "require": {
@@ -1192,7 +1192,55 @@
                 "require-dev": {
                     "segmentio/analytics-php": "^3.8"
                 },
-                "time": "2026-06-25T15:01:51+00:00",
+                "time": "2026-08-05T16:20:44+00:00",
+                "type": "wordpress-plugin",
+                "autoload": {
+                    "exclude-from-classmap": [
+                        "/tests/"
+                    ]
+                },
+                "license": [
+                    "GPLv2 or later"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    },
+                    {
+                        "name": "Chris Carrel",
+                        "homepage": "https://www.linkedin.com/in/chriscarrel"
+                    }
+                ],
+                "description": "CDP Analytics",
+                "support": {
+                    "source": "https://github.com/unlock-com/cdp-analytics/tree/1.2.7",
+                    "issues": "https://github.com/unlock-com/cdp-analytics/issues"
+                }
+            },
+            "dev-main": {
+                "name": "unlk/cdp-analytics",
+                "version": "dev-main",
+                "version_normalized": "dev-main",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/cdp-analytics.git",
+                    "reference": "6e2f54134e396f755cad578f0dec9c58fde9ca47"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/6e2f54134e396f755cad578f0dec9c58fde9ca47",
+                    "reference": "6e2f54134e396f755cad578f0dec9c58fde9ca47",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "^2.0",
+                    "php": "^7.4|^8"
+                },
+                "require-dev": {
+                    "segmentio/analytics-php": "^3.8"
+                },
+                "time": "2026-08-05T16:20:44+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "autoload": {
@@ -1215,7 +1263,7 @@
                 ],
                 "description": "CDP Analytics",
                 "support": {
-                    "source": "https://github.com/unlock-com/cdp-analytics/tree/1.2.6",
+                    "source": "https://github.com/unlock-com/cdp-analytics/tree/1.2.7",
                     "issues": "https://github.com/unlock-com/cdp-analytics/issues"
                 }
             }
@@ -3091,6 +3139,41 @@
                     "issues": "https://github.com/unlock-com/gravityformsmax/issues"
                 }
             },
+            "1.0.6": {
+                "name": "unlk/gravityformsmax",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gravityformsmax.git",
+                    "reference": "b36da0d33e4e99c47744b388384c6faffd6253fc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gravityformsmax/zipball/b36da0d33e4e99c47744b388384c6faffd6253fc",
+                    "reference": "b36da0d33e4e99c47744b388384c6faffd6253fc",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-08-05T16:20:16+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Connector to transmit Gravity Form submissions to MAX",
+                "support": {
+                    "source": "https://github.com/unlock-com/gravityformsmax/tree/1.0.6",
+                    "issues": "https://github.com/unlock-com/gravityformsmax/issues"
+                }
+            },
             "dev-main": {
                 "name": "unlk/gravityformsmax",
                 "version": "dev-main",
@@ -3098,18 +3181,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gravityformsmax.git",
-                    "reference": "01137a28030e76ccf91fa7cb18fa5805d37dded6"
+                    "reference": "b36da0d33e4e99c47744b388384c6faffd6253fc"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gravityformsmax/zipball/01137a28030e76ccf91fa7cb18fa5805d37dded6",
-                    "reference": "01137a28030e76ccf91fa7cb18fa5805d37dded6",
+                    "url": "https://api.github.com/repos/unlock-com/gravityformsmax/zipball/b36da0d33e4e99c47744b388384c6faffd6253fc",
+                    "reference": "b36da0d33e4e99c47744b388384c6faffd6253fc",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-07-29T14:42:36+00:00",
+                "time": "2026-08-05T16:20:16+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -3123,7 +3206,7 @@
                 ],
                 "description": "Connector to transmit Gravity Form submissions to MAX",
                 "support": {
-                    "source": "https://github.com/unlock-com/gravityformsmax/tree/1.0.5",
+                    "source": "https://github.com/unlock-com/gravityformsmax/tree/1.0.6",
                     "issues": "https://github.com/unlock-com/gravityformsmax/issues"
                 }
             }
