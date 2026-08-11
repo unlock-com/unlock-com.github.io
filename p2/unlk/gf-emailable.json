@@ -1,0 +1,41 @@
+{
+    "packages": {
+        "unlk/gf-emailable": [
+            {
+                "name": "unlk/gf-emailable",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-emailable.git",
+                    "reference": "59e4fd20a9150044e067bd71d1f3fbe44afc8928"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-emailable/zipball/59e4fd20a9150044e067bd71d1f3fbe44afc8928",
+                    "reference": "59e4fd20a9150044e067bd71d1f3fbe44afc8928",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-08-11T13:58:03+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Emailable",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-emailable/tree/1.0.0",
+                    "issues": "https://github.com/unlock-com/gf-emailable/issues"
+                }
+            }
+        ]
+    }
+}

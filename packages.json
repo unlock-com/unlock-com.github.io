@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$ab135efb110eb515f2ccf2e70e15381f54481e53.json": {
-            "sha1": "ab135efb110eb515f2ccf2e70e15381f54481e53"
+        "include/all$dc08c2249edd0557fac59a8b1ede9d579da6871c.json": {
+            "sha1": "dc08c2249edd0557fac59a8b1ede9d579da6871c"
         }
     },
     "metadata-url": "/p2/%package%.json",
@@ -10,6 +10,7 @@
         "unlk/cdp-analytics",
         "unlk/gf-bootstrap5-floating-labels",
         "unlk/gf-conditional-submit-text",
+        "unlk/gf-emailable",
         "unlk/gf-segment-identify",
         "unlk/gf-smarty-autocomplete",
         "unlk/gf-trustedform",
