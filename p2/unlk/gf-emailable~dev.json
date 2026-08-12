@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-emailable.git",
-                    "reference": "59e4fd20a9150044e067bd71d1f3fbe44afc8928"
+                    "reference": "bfd8a5df27f836b1dd4cca8f8290bd1478c89d4c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-emailable/zipball/59e4fd20a9150044e067bd71d1f3fbe44afc8928",
-                    "reference": "59e4fd20a9150044e067bd71d1f3fbe44afc8928",
+                    "url": "https://api.github.com/repos/unlock-com/gf-emailable/zipball/bfd8a5df27f836b1dd4cca8f8290bd1478c89d4c",
+                    "reference": "bfd8a5df27f836b1dd4cca8f8290bd1478c89d4c",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-08-11T13:58:03+00:00",
+                "time": "2026-08-12T14:22:20+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -33,7 +33,7 @@
                 ],
                 "description": "Gravity Forms - Emailable",
                 "support": {
-                    "source": "https://github.com/unlock-com/gf-emailable/tree/1.0.0",
+                    "source": "https://github.com/unlock-com/gf-emailable/tree/1.0.1",
                     "issues": "https://github.com/unlock-com/gf-emailable/issues"
                 }
             }
