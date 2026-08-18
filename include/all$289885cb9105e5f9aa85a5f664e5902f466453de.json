@@ -1218,6 +1218,54 @@
                     "issues": "https://github.com/unlock-com/cdp-analytics/issues"
                 }
             },
+            "1.2.8": {
+                "name": "unlk/cdp-analytics",
+                "version": "1.2.8",
+                "version_normalized": "1.2.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/cdp-analytics.git",
+                    "reference": "6ed0206798b5435edf987c941e7b1cd56d563f4b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/6ed0206798b5435edf987c941e7b1cd56d563f4b",
+                    "reference": "6ed0206798b5435edf987c941e7b1cd56d563f4b",
+                    "shasum": ""
+                },
+                "require": {
+                    "composer/installers": "^2.0",
+                    "php": "^7.4|^8"
+                },
+                "require-dev": {
+                    "segmentio/analytics-php": "^3.8"
+                },
+                "time": "2026-08-18T17:30:16+00:00",
+                "type": "wordpress-plugin",
+                "autoload": {
+                    "exclude-from-classmap": [
+                        "/tests/"
+                    ]
+                },
+                "license": [
+                    "GPLv2 or later"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    },
+                    {
+                        "name": "Chris Carrel",
+                        "homepage": "https://www.linkedin.com/in/chriscarrel"
+                    }
+                ],
+                "description": "CDP Analytics",
+                "support": {
+                    "source": "https://github.com/unlock-com/cdp-analytics/tree/1.2.8",
+                    "issues": "https://github.com/unlock-com/cdp-analytics/issues"
+                }
+            },
             "dev-main": {
                 "name": "unlk/cdp-analytics",
                 "version": "dev-main",
@@ -1730,6 +1778,41 @@
                     "issues": "https://github.com/unlock-com/gf-emailable/issues"
                 }
             },
+            "1.0.2": {
+                "name": "unlk/gf-emailable",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-emailable.git",
+                    "reference": "1508b34bf9123754fcf6b21db56f70db1c6085df"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-emailable/zipball/1508b34bf9123754fcf6b21db56f70db1c6085df",
+                    "reference": "1508b34bf9123754fcf6b21db56f70db1c6085df",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-08-18T17:29:42+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Emailable",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-emailable/tree/1.0.2",
+                    "issues": "https://github.com/unlock-com/gf-emailable/issues"
+                }
+            },
             "dev-main": {
                 "name": "unlk/gf-emailable",
                 "version": "dev-main",
@@ -1737,18 +1820,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-emailable.git",
-                    "reference": "bfd8a5df27f836b1dd4cca8f8290bd1478c89d4c"
+                    "reference": "1508b34bf9123754fcf6b21db56f70db1c6085df"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-emailable/zipball/bfd8a5df27f836b1dd4cca8f8290bd1478c89d4c",
-                    "reference": "bfd8a5df27f836b1dd4cca8f8290bd1478c89d4c",
+                    "url": "https://api.github.com/repos/unlock-com/gf-emailable/zipball/1508b34bf9123754fcf6b21db56f70db1c6085df",
+                    "reference": "1508b34bf9123754fcf6b21db56f70db1c6085df",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-08-12T14:22:20+00:00",
+                "time": "2026-08-18T17:29:42+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -1762,7 +1845,7 @@
                 ],
                 "description": "Gravity Forms - Emailable",
                 "support": {
-                    "source": "https://github.com/unlock-com/gf-emailable/tree/1.0.1",
+                    "source": "https://github.com/unlock-com/gf-emailable/tree/1.0.2",
                     "issues": "https://github.com/unlock-com/gf-emailable/issues"
                 }
             }
@@ -2083,6 +2166,41 @@
                     "issues": "https://github.com/unlock-com/gf-segment-identify/issues"
                 }
             },
+            "1.0.9": {
+                "name": "unlk/gf-segment-identify",
+                "version": "1.0.9",
+                "version_normalized": "1.0.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-segment-identify.git",
+                    "reference": "1ba7515bb25c8f5a20ba63382578d7a94424235b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-segment-identify/zipball/1ba7515bb25c8f5a20ba63382578d7a94424235b",
+                    "reference": "1ba7515bb25c8f5a20ba63382578d7a94424235b",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-08-18T17:28:55+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Segment Identify",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-segment-identify/tree/1.0.9",
+                    "issues": "https://github.com/unlock-com/gf-segment-identify/issues"
+                }
+            },
             "dev-main": {
                 "name": "unlk/gf-segment-identify",
                 "version": "dev-main",
@@ -2090,18 +2208,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-segment-identify.git",
-                    "reference": "730f7538df71ed8ddf72ed3b1fb41c72e8f58f56"
+                    "reference": "1ba7515bb25c8f5a20ba63382578d7a94424235b"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-segment-identify/zipball/730f7538df71ed8ddf72ed3b1fb41c72e8f58f56",
-                    "reference": "730f7538df71ed8ddf72ed3b1fb41c72e8f58f56",
+                    "url": "https://api.github.com/repos/unlock-com/gf-segment-identify/zipball/1ba7515bb25c8f5a20ba63382578d7a94424235b",
+                    "reference": "1ba7515bb25c8f5a20ba63382578d7a94424235b",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-06-26T17:27:24+00:00",
+                "time": "2026-08-18T17:28:55+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -2115,7 +2233,7 @@
                 ],
                 "description": "Gravity Forms - Segment Identify",
                 "support": {
-                    "source": "https://github.com/unlock-com/gf-segment-identify/tree/1.0.8",
+                    "source": "https://github.com/unlock-com/gf-segment-identify/tree/1.0.9",
                     "issues": "https://github.com/unlock-com/gf-segment-identify/issues"
                 }
             }
