@@ -280,6 +280,41 @@
                     "source": "https://github.com/unlock-com/gravityformsmax/tree/1.0.7",
                     "issues": "https://github.com/unlock-com/gravityformsmax/issues"
                 }
+            },
+            {
+                "name": "unlk/gravityformsmax",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gravityformsmax.git",
+                    "reference": "9018ba8fe0db82cb0051c656ccb897753e050480"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gravityformsmax/zipball/9018ba8fe0db82cb0051c656ccb897753e050480",
+                    "reference": "9018ba8fe0db82cb0051c656ccb897753e050480",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-08-19T14:45:06+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Connector to transmit Gravity Form submissions to MAX",
+                "support": {
+                    "source": "https://github.com/unlock-com/gravityformsmax/tree/1.0.8",
+                    "issues": "https://github.com/unlock-com/gravityformsmax/issues"
+                }
             }
         ]
     }
