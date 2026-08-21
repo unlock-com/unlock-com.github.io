@@ -210,6 +210,41 @@
                     "source": "https://github.com/unlock-com/gf-bootstrap5-floating-labels/tree/1.0.5",
                     "issues": "https://github.com/unlock-com/gf-bootstrap5-floating-labels/issues"
                 }
+            },
+            {
+                "name": "unlk/gf-bootstrap5-floating-labels",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-bootstrap5-floating-labels.git",
+                    "reference": "7152afdb03f563f4b57b8370f54510ff83307c22"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-bootstrap5-floating-labels/zipball/7152afdb03f563f4b57b8370f54510ff83307c22",
+                    "reference": "7152afdb03f563f4b57b8370f54510ff83307c22",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-08-21T19:11:26+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Bootstrap5 Floating Labels",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-bootstrap5-floating-labels/tree/1.0.6",
+                    "issues": "https://github.com/unlock-com/gf-bootstrap5-floating-labels/issues"
+                }
             }
         ]
     }

@@ -1623,6 +1623,41 @@
                     "issues": "https://github.com/unlock-com/gf-bootstrap5-floating-labels/issues"
                 }
             },
+            "1.0.6": {
+                "name": "unlk/gf-bootstrap5-floating-labels",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-bootstrap5-floating-labels.git",
+                    "reference": "7152afdb03f563f4b57b8370f54510ff83307c22"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-bootstrap5-floating-labels/zipball/7152afdb03f563f4b57b8370f54510ff83307c22",
+                    "reference": "7152afdb03f563f4b57b8370f54510ff83307c22",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-08-21T19:11:26+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Bootstrap5 Floating Labels",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-bootstrap5-floating-labels/tree/1.0.6",
+                    "issues": "https://github.com/unlock-com/gf-bootstrap5-floating-labels/issues"
+                }
+            },
             "dev-main": {
                 "name": "unlk/gf-bootstrap5-floating-labels",
                 "version": "dev-main",
@@ -1630,18 +1665,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-bootstrap5-floating-labels.git",
-                    "reference": "5db69cbf932188f814596a0fb053adbfe838827b"
+                    "reference": "7152afdb03f563f4b57b8370f54510ff83307c22"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-bootstrap5-floating-labels/zipball/5db69cbf932188f814596a0fb053adbfe838827b",
-                    "reference": "5db69cbf932188f814596a0fb053adbfe838827b",
+                    "url": "https://api.github.com/repos/unlock-com/gf-bootstrap5-floating-labels/zipball/7152afdb03f563f4b57b8370f54510ff83307c22",
+                    "reference": "7152afdb03f563f4b57b8370f54510ff83307c22",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-05-27T16:59:21+00:00",
+                "time": "2026-08-21T19:11:26+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -1655,7 +1690,7 @@
                 ],
                 "description": "Gravity Forms - Bootstrap5 Floating Labels",
                 "support": {
-                    "source": "https://github.com/unlock-com/gf-bootstrap5-floating-labels/tree/1.0.5",
+                    "source": "https://github.com/unlock-com/gf-bootstrap5-floating-labels/tree/1.0.6",
                     "issues": "https://github.com/unlock-com/gf-bootstrap5-floating-labels/issues"
                 }
             }
@@ -2122,6 +2157,41 @@
                     "issues": "https://github.com/unlock-com/gf-otp/issues"
                 }
             },
+            "1.0.4": {
+                "name": "unlk/gf-otp",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-otp.git",
+                    "reference": "6392b166eaa494d88e5c0c87d06c6525caaf1857"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-otp/zipball/6392b166eaa494d88e5c0c87d06c6525caaf1857",
+                    "reference": "6392b166eaa494d88e5c0c87d06c6525caaf1857",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-08-21T19:11:54+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - OTP Verification",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-otp/tree/1.0.4",
+                    "issues": "https://github.com/unlock-com/gf-otp/issues"
+                }
+            },
             "dev-main": {
                 "name": "unlk/gf-otp",
                 "version": "dev-main",
@@ -2129,18 +2199,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-otp.git",
-                    "reference": "234ccd663b2b76f80669534d244436c1a6f14093"
+                    "reference": "6392b166eaa494d88e5c0c87d06c6525caaf1857"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-otp/zipball/234ccd663b2b76f80669534d244436c1a6f14093",
-                    "reference": "234ccd663b2b76f80669534d244436c1a6f14093",
+                    "url": "https://api.github.com/repos/unlock-com/gf-otp/zipball/6392b166eaa494d88e5c0c87d06c6525caaf1857",
+                    "reference": "6392b166eaa494d88e5c0c87d06c6525caaf1857",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-08-20T16:46:43+00:00",
+                "time": "2026-08-21T19:11:54+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -2154,7 +2224,7 @@
                 ],
                 "description": "Gravity Forms - OTP Verification",
                 "support": {
-                    "source": "https://github.com/unlock-com/gf-otp/tree/1.0.3",
+                    "source": "https://github.com/unlock-com/gf-otp/tree/1.0.4",
                     "issues": "https://github.com/unlock-com/gf-otp/issues"
                 }
             }
