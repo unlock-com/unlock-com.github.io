@@ -8,12 +8,12 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/cdp-analytics.git",
-                    "reference": "ec1fbb034fbe65633fb75c9a51d4b39e971ea677"
+                    "reference": "b2ed00a131db3ab3dff6a9e8b93c31fc90b53506"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/ec1fbb034fbe65633fb75c9a51d4b39e971ea677",
-                    "reference": "ec1fbb034fbe65633fb75c9a51d4b39e971ea677",
+                    "url": "https://api.github.com/repos/unlock-com/cdp-analytics/zipball/b2ed00a131db3ab3dff6a9e8b93c31fc90b53506",
+                    "reference": "b2ed00a131db3ab3dff6a9e8b93c31fc90b53506",
                     "shasum": ""
                 },
                 "require": {
@@ -23,7 +23,7 @@
                 "require-dev": {
                     "segmentio/analytics-php": "^3.8"
                 },
-                "time": "2026-08-20T19:48:31+00:00",
+                "time": "2026-08-24T14:58:10+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "autoload": {
@@ -46,7 +46,7 @@
                 ],
                 "description": "CDP Analytics",
                 "support": {
-                    "source": "https://github.com/unlock-com/cdp-analytics/tree/1.3.0",
+                    "source": "https://github.com/unlock-com/cdp-analytics/tree/1.3.1",
                     "issues": "https://github.com/unlock-com/cdp-analytics/issues"
                 }
             }
