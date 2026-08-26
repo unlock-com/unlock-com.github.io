@@ -2310,6 +2310,41 @@
                     "issues": "https://github.com/unlock-com/gf-otp/issues"
                 }
             },
+            "1.0.7": {
+                "name": "unlk/gf-otp",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-otp.git",
+                    "reference": "fc3e4e820c5f2c75051528b27bbb2763a286ce8c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-otp/zipball/fc3e4e820c5f2c75051528b27bbb2763a286ce8c",
+                    "reference": "fc3e4e820c5f2c75051528b27bbb2763a286ce8c",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-08-26T16:04:14+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - OTP Verification",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-otp/tree/1.0.7",
+                    "issues": "https://github.com/unlock-com/gf-otp/issues"
+                }
+            },
             "dev-main": {
                 "name": "unlk/gf-otp",
                 "version": "dev-main",
@@ -2317,18 +2352,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-otp.git",
-                    "reference": "aa841330b581466b60596d9c45273d8a5bc2653d"
+                    "reference": "fc3e4e820c5f2c75051528b27bbb2763a286ce8c"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-otp/zipball/aa841330b581466b60596d9c45273d8a5bc2653d",
-                    "reference": "aa841330b581466b60596d9c45273d8a5bc2653d",
+                    "url": "https://api.github.com/repos/unlock-com/gf-otp/zipball/fc3e4e820c5f2c75051528b27bbb2763a286ce8c",
+                    "reference": "fc3e4e820c5f2c75051528b27bbb2763a286ce8c",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-08-24T23:57:33+00:00",
+                "time": "2026-08-26T16:04:14+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -2342,7 +2377,7 @@
                 ],
                 "description": "Gravity Forms - OTP Verification",
                 "support": {
-                    "source": "https://github.com/unlock-com/gf-otp/tree/1.0.6",
+                    "source": "https://github.com/unlock-com/gf-otp/tree/1.0.7",
                     "issues": "https://github.com/unlock-com/gf-otp/issues"
                 }
             }
@@ -4422,6 +4457,41 @@
                     "issues": "https://github.com/unlock-com/gravityformsmax/issues"
                 }
             },
+            "1.1.4": {
+                "name": "unlk/gravityformsmax",
+                "version": "1.1.4",
+                "version_normalized": "1.1.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gravityformsmax.git",
+                    "reference": "4fdfa342902fd50fe5c5161aba8580d76db8132f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gravityformsmax/zipball/4fdfa342902fd50fe5c5161aba8580d76db8132f",
+                    "reference": "4fdfa342902fd50fe5c5161aba8580d76db8132f",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-08-26T15:47:07+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Connector to transmit Gravity Form submissions to MAX",
+                "support": {
+                    "source": "https://github.com/unlock-com/gravityformsmax/tree/1.1.4",
+                    "issues": "https://github.com/unlock-com/gravityformsmax/issues"
+                }
+            },
             "dev-main": {
                 "name": "unlk/gravityformsmax",
                 "version": "dev-main",
@@ -4429,18 +4499,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gravityformsmax.git",
-                    "reference": "34c99220bc6cc7a570cbafc18e426dada99adcc6"
+                    "reference": "4fdfa342902fd50fe5c5161aba8580d76db8132f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gravityformsmax/zipball/34c99220bc6cc7a570cbafc18e426dada99adcc6",
-                    "reference": "34c99220bc6cc7a570cbafc18e426dada99adcc6",
+                    "url": "https://api.github.com/repos/unlock-com/gravityformsmax/zipball/4fdfa342902fd50fe5c5161aba8580d76db8132f",
+                    "reference": "4fdfa342902fd50fe5c5161aba8580d76db8132f",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-08-25T14:09:18+00:00",
+                "time": "2026-08-26T15:47:07+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -4454,7 +4524,7 @@
                 ],
                 "description": "Connector to transmit Gravity Form submissions to MAX",
                 "support": {
-                    "source": "https://github.com/unlock-com/gravityformsmax/tree/1.1.3",
+                    "source": "https://github.com/unlock-com/gravityformsmax/tree/1.1.4",
                     "issues": "https://github.com/unlock-com/gravityformsmax/issues"
                 }
             }
