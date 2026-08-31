@@ -8,18 +8,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gravityformsmax.git",
-                    "reference": "4cfffc75c49f3bc306e6c2e7cb9eae87beee4f36"
+                    "reference": "4bf5ee4fad04e8575d3d983c90a0ff4a1c08b9cd"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gravityformsmax/zipball/4cfffc75c49f3bc306e6c2e7cb9eae87beee4f36",
-                    "reference": "4cfffc75c49f3bc306e6c2e7cb9eae87beee4f36",
+                    "url": "https://api.github.com/repos/unlock-com/gravityformsmax/zipball/4bf5ee4fad04e8575d3d983c90a0ff4a1c08b9cd",
+                    "reference": "4bf5ee4fad04e8575d3d983c90a0ff4a1c08b9cd",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-08-27T19:22:46+00:00",
+                "time": "2026-08-31T13:22:14+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -33,7 +33,7 @@
                 ],
                 "description": "Connector to transmit Gravity Form submissions to MAX",
                 "support": {
-                    "source": "https://github.com/unlock-com/gravityformsmax/tree/1.1.6",
+                    "source": "https://github.com/unlock-com/gravityformsmax/tree/1.1.7",
                     "issues": "https://github.com/unlock-com/gravityformsmax/issues"
                 }
             }
