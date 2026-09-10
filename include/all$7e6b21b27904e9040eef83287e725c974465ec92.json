@@ -2533,6 +2533,41 @@
                     "issues": "https://github.com/unlock-com/gf-otp/issues"
                 }
             },
+            "1.1.1": {
+                "name": "unlk/gf-otp",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-otp.git",
+                    "reference": "73405c9a1537562dfc7fe03f4179d0c1e9eb76b2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-otp/zipball/73405c9a1537562dfc7fe03f4179d0c1e9eb76b2",
+                    "reference": "73405c9a1537562dfc7fe03f4179d0c1e9eb76b2",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-09-10T19:37:50+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - OTP Verification",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-otp/tree/1.1.1",
+                    "issues": "https://github.com/unlock-com/gf-otp/issues"
+                }
+            },
             "dev-main": {
                 "name": "unlk/gf-otp",
                 "version": "dev-main",
@@ -2540,18 +2575,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-otp.git",
-                    "reference": "0a51a3849d2af05b72623d3de0642991f83f45cb"
+                    "reference": "73405c9a1537562dfc7fe03f4179d0c1e9eb76b2"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-otp/zipball/0a51a3849d2af05b72623d3de0642991f83f45cb",
-                    "reference": "0a51a3849d2af05b72623d3de0642991f83f45cb",
+                    "url": "https://api.github.com/repos/unlock-com/gf-otp/zipball/73405c9a1537562dfc7fe03f4179d0c1e9eb76b2",
+                    "reference": "73405c9a1537562dfc7fe03f4179d0c1e9eb76b2",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-09-10T19:12:29+00:00",
+                "time": "2026-09-10T19:37:50+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -2565,7 +2600,7 @@
                 ],
                 "description": "Gravity Forms - OTP Verification",
                 "support": {
-                    "source": "https://github.com/unlock-com/gf-otp/tree/1.1.0",
+                    "source": "https://github.com/unlock-com/gf-otp/tree/1.1.1",
                     "issues": "https://github.com/unlock-com/gf-otp/issues"
                 }
             }
