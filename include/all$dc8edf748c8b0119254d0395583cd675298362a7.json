@@ -2664,6 +2664,41 @@
                     "issues": "https://github.com/unlock-com/gf-otp/issues"
                 }
             },
+            "1.1.2": {
+                "name": "unlk/gf-otp",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-otp.git",
+                    "reference": "b57f0fc876d33e1a1a6fb0fdcb97eb4a9acab9e4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-otp/zipball/b57f0fc876d33e1a1a6fb0fdcb97eb4a9acab9e4",
+                    "reference": "b57f0fc876d33e1a1a6fb0fdcb97eb4a9acab9e4",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-11-16T19:56:02+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - OTP Verification",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-otp/tree/1.1.2",
+                    "issues": "https://github.com/unlock-com/gf-otp/issues"
+                }
+            },
             "dev-main": {
                 "name": "unlk/gf-otp",
                 "version": "dev-main",
@@ -2671,18 +2706,18 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/gf-otp.git",
-                    "reference": "73405c9a1537562dfc7fe03f4179d0c1e9eb76b2"
+                    "reference": "b57f0fc876d33e1a1a6fb0fdcb97eb4a9acab9e4"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/gf-otp/zipball/73405c9a1537562dfc7fe03f4179d0c1e9eb76b2",
-                    "reference": "73405c9a1537562dfc7fe03f4179d0c1e9eb76b2",
+                    "url": "https://api.github.com/repos/unlock-com/gf-otp/zipball/b57f0fc876d33e1a1a6fb0fdcb97eb4a9acab9e4",
+                    "reference": "b57f0fc876d33e1a1a6fb0fdcb97eb4a9acab9e4",
                     "shasum": ""
                 },
                 "require": {
                     "php": ">=8.3"
                 },
-                "time": "2026-09-10T19:37:50+00:00",
+                "time": "2026-11-16T19:56:02+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -2696,7 +2731,7 @@
                 ],
                 "description": "Gravity Forms - OTP Verification",
                 "support": {
-                    "source": "https://github.com/unlock-com/gf-otp/tree/1.1.1",
+                    "source": "https://github.com/unlock-com/gf-otp/tree/1.1.2",
                     "issues": "https://github.com/unlock-com/gf-otp/issues"
                 }
             }
@@ -3857,6 +3892,41 @@
                 "description": "Gravity Forms - Smarty Autocomplete",
                 "support": {
                     "source": "https://github.com/unlock-com/gf-smarty-autocomplete/tree/1.2.1",
+                    "issues": "https://github.com/unlock-com/gf-smarty-autocomplete/issues"
+                }
+            },
+            "1.2.2": {
+                "name": "unlk/gf-smarty-autocomplete",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:unlock-com/gf-smarty-autocomplete.git",
+                    "reference": "c9a0c0ff6ff1603f555dc4c8532e85892a73b711"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/unlock-com/gf-smarty-autocomplete/zipball/c9a0c0ff6ff1603f555dc4c8532e85892a73b711",
+                    "reference": "c9a0c0ff6ff1603f555dc4c8532e85892a73b711",
+                    "shasum": ""
+                },
+                "require": {
+                    "php": ">=8.3"
+                },
+                "time": "2026-11-16T19:57:14+00:00",
+                "type": "wordpress-plugin",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Nikun Patel",
+                        "homepage": "https://www.linkedin.com/in/nikunpatel"
+                    }
+                ],
+                "description": "Gravity Forms - Smarty Autocomplete",
+                "support": {
+                    "source": "https://github.com/unlock-com/gf-smarty-autocomplete/tree/1.2.2",
                     "issues": "https://github.com/unlock-com/gf-smarty-autocomplete/issues"
                 }
             },
