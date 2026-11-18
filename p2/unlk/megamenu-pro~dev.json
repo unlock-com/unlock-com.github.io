@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "git@github.com:unlock-com/megamenu-pro.git",
-                    "reference": "b0853797043fb096cc33c06d3fedc0c26c2cbe0a"
+                    "reference": "fb118bab326860c3784452fa4584fd1da91ef008"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/unlock-com/megamenu-pro/zipball/b0853797043fb096cc33c06d3fedc0c26c2cbe0a",
-                    "reference": "b0853797043fb096cc33c06d3fedc0c26c2cbe0a",
+                    "url": "https://api.github.com/repos/unlock-com/megamenu-pro/zipball/fb118bab326860c3784452fa4584fd1da91ef008",
+                    "reference": "fb118bab326860c3784452fa4584fd1da91ef008",
                     "shasum": ""
                 },
-                "time": "2026-07-02T18:26:30+00:00",
+                "time": "2026-11-18T16:06:06+00:00",
                 "default-branch": true,
                 "type": "wordpress-plugin",
                 "license": [
@@ -29,7 +29,7 @@
                 ],
                 "description": "Max Mega Menu - Pro",
                 "support": {
-                    "source": "https://github.com/unlock-com/megamenu-pro/tree/2.5",
+                    "source": "https://github.com/unlock-com/megamenu-pro/tree/2.6",
                     "issues": "https://github.com/unlock-com/megamenu-pro/issues"
                 }
             }
